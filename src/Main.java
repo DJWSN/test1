@@ -4,6 +4,7 @@ public class Main
 {
     public static void main(String[] args)
     {
+        System.out.println("系统启动");
         Scanner in = new Scanner(System.in);
         Library myLittleLibrary = new Library();
         //输入图书馆中书籍的总数
