@@ -1,0 +1,33 @@
+@startuml
+class Book {
++ String author
++ boolean isBorrowed
++ String name
++ double price
+}
+
+class Library {
+~ Scanner in
++ HashMap<Integer,Book> books
+- int booksNum
++ int[] res
++ void getBooksNum(int)
++ void Init()
++ void FindBook(String)
++ int FindBookInRes(String)
++ void getAllBooks()
+}
+
+
+class Reader {
+- String name
++ void BorrowBook(Book)
++ void ReturnBook(Book)
+}
+
+
+class Main {
++ {static} void main(String[])
+}
+
+@enduml

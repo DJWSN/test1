@@ -1,0 +1,24 @@
+
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(øçòıÿÿÿÿJ$68ac35fc-fff4-4eb0-a564-349701bfbb40
+k
+java:S1066."/Merge this if statement with the enclosing one.(†“¨åJ$4d357d80-ad58-4555-9734-b2b5ad022240
+£
+java:S1319"bThe type of "books" should be an interface such as "Map" rather than the implementation "HashMap".(øçòıÿÿÿÿJ$1255bf6b-4332-41b9-8a8a-5a8664817234
+’
+java:S1104"QMake books a static final constant or non-public and provide accessors if needed.(øçòıÿÿÿÿJ$88e19ac8-1165-4b33-a8c6-f2134c7ec7e5
+‹
+java:S1104	"OMake res a static final constant or non-public and provide accessors if needed.(ûÄˆºJ$e6a483e7-f86d-4282-9bb2-6d8284613551
+V
+java:S1220""Move this file to a named package.J$303055b9-0fb4-485e-b254-16db1eb5eb32
+©
+java:S4165"hRemove this useless assignment; "isBorrowed" already holds the assigned value along all execution paths.(„ÃÊĞıÿÿÿÿJ$8e15ad58-6f6f-49d5-882b-6eeb8f24829f
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÀ²“üÿÿÿÿJ$cd827d82-9205-4d86-ae90-1a9415d0a637
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÓà¶J$11f42d1c-510c-41dd-9d60-ea09cb8fc9a2
+k	java:S106#"+Replace this use of System.out by a logger.(§åÁ˜ùÿÿÿÿJ$1ae003df-df3c-4f78-9578-01cc5e15dee4
+	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â†ãƒüÿÿÿÿJ$e3507e7d-3d43-476f-8b25-92d97a687ded
+k	java:S106;"+Replace this use of System.out by a logger.(Î±™™ûÿÿÿÿJ$0668ae87-242f-4d0a-951a-5b8973d08c29
+f	java:S106="+Replace this use of System.out by a logger.(şÉÎ‹J$090e97ab-483e-42ed-82c1-c597775b2f03
+k	java:S106?"+Replace this use of System.out by a logger.(¤òìØÿÿÿÿÿJ$abdddc11-f2bc-412a-b1a2-d6f983b64fcb
+l
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒJ$be7f55a5-a4b7-4dd0-81a2-76ec2a5c1c34

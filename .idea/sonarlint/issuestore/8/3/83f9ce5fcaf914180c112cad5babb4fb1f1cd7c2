@@ -1,0 +1,11 @@
+
+
+java:S1104"RMake author a static final constant or non-public and provide accessors if needed.(ÌÊß›J$404db8f6-282e-405b-9caf-73006ea30edf
+—
+java:S1104"VMake isBorrowed a static final constant or non-public and provide accessors if needed.(û²èúøÿÿÿÿJ$ae8b291c-8129-444e-b477-8914f6181e0f
+Œ
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾J$57ae14e8-80d3-408d-91f9-cc3cc5534e7b
+
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ J$0b404758-f96b-4941-a763-30dd9e1df9f3
+V
+java:S1220""Move this file to a named package.J$2720a70a-17c5-4624-a52d-be5d6b096046
